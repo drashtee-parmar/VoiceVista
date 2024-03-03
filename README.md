@@ -24,4 +24,5 @@ Indicating a comprehensive view (vista) into customer calls through voice analys
 # library installed 
 ```commandline
 pip install azure-cognitiveservices-speech
+pip install azure-ai-textanalytics
 ```
